@@ -19,4 +19,4 @@ More detailed information can be found here [http://energia.nu/cc3200guide/](htt
 
 You only need to change the jumper cables. After that you're good to upload code into it.
 
-[Death Star](http://i.imgur.com/OWaMtjj.png)
+![Death Star](http://i.imgur.com/OWaMtjj.png)
