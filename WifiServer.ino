@@ -29,9 +29,9 @@
 #include <WiFi.h>
 
 // your network name also called SSID
-char ssid[] = "PiedPiper";
+char ssid[] = "CometsCreate";
 // your network password
-char password[] = "xxxxxxxxxx";
+char password[] = "22463746";
 // your network key Index number (needed only for WEP)
 int keyIndex = 0;
 
