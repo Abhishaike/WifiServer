@@ -19,4 +19,13 @@ More detailed information can be found here [http://energia.nu/cc3200guide/](htt
 
 You only need to change the jumper cables. After that you're good to upload code into it.
 
+Now you need to change the baud rate to 115200 in order to get the serial input.
+Once connected on the wifi you should get an IP Address from the console.
+
+If you open the website you'll be greeted by this page.
+
+### If everything goes well you'll eb greeted
 ![Death Star](http://i.imgur.com/OWaMtjj.png)
+
+
+#Good Luck!
